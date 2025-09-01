@@ -32,7 +32,7 @@ Currently available for **Odoo 16**, with planned support for future versions.
 ## 📬 Contact
 For questions, support, or contributions, please reach out via:  
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/)  
+- [GitHub](https://github.com/nicomesa230)
+- [LinkedIn](https://linkedin.com/in/nicolas-mesa-munoz) 
 
 ---
